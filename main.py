@@ -1,6 +1,6 @@
 from math import sqrt
 
-print('ax^2 + bx + c')
+print('ax^2 + bx + c = 0')
 a = float(input('a = '))
 b = float(input('b = '))
 c = float(input('c = '))
